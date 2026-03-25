@@ -14,6 +14,13 @@ Hobbies: tv shows, movies, books, design
 Feel free to reach out for collaborations.
 ```
 </p>
+
+<h4 align="center"><samp>Find Me:</samp></h4>
+<p align="center">
+  <a href="SEU_LINK_DISCORD" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/discord-logo.png" alt="discord-logo" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="SEU_LINK_LINKEDIN" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/linkedin.png" alt="linkedin" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="SEU_LINK_INSTAGRAM" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/instagram-new.png" alt="instagram-new" style="text-decoration: none; border: none;"/></a>
+</p>
 <br clear="left"/>
 
   
@@ -140,14 +147,6 @@ React
     <td align="center"><img width="40" src="https://img.icons8.com/color/48/prettier.png"/><br>Prettier</td>
   </tr>
 </table>
-
-
-<h4 align="center"><samp>Find Me:</samp></h4>
-<p align="center">
-  <a href="SEU_LINK_DISCORD" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/discord-logo.png" alt="discord-logo" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SEU_LINK_LINKEDIN" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/linkedin.png" alt="linkedin" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SEU_LINK_INSTAGRAM" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/instagram-new.png" alt="instagram-new" style="text-decoration: none; border: none;"/></a>
-</p>
 
 
 
