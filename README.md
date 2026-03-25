@@ -76,8 +76,7 @@ Feel free to reach out for collaborations.
       <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/vercel.png"/><br>Vercel</td>
       <td align="center"><img width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-bold-tal-revivo.png"/><br>Jest</td>
       
-      
-      
+           
     </tr>
   </table>
 
@@ -92,9 +91,9 @@ Feel free to reach out for collaborations.
 
 <h4 align="center"><samp>Find Me:</samp></h4>
 <p align="center">
-  <a href="SEU_LINK_DISCORD" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/discord-logo.png" alt="discord-logo" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SEU_LINK_LINKEDIN" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/linkedin.png" alt="linkedin" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SEU_LINK_INSTAGRAM" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/instagram-new.png" alt="instagram-new" style="text-decoration: none; border: none;"/></a>
+  <a href="https://discord.com/users/silverlck" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/discord-logo.png" alt="discord-logo" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/heloisa-domingos-bonaretto-1646a0235/" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/linkedin.png" alt="linkedin" style="text-decoration: none; border: none;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/helo_db" target="_blank"><img width="22" height="22" src="https://img.icons8.com/ios-glyphs/30/instagram-new.png" alt="instagram-new" style="text-decoration: none; border: none;"/></a>
 </p>
 
 
