@@ -1,6 +1,6 @@
 ## 
 
-<img align="left" src="https://i.pinimg.com/736x/ee/3e/88/ee3e88df2b236e848a1beef8fe7b3703.jpg" width="200" /> 
+<img align="left" src="https://i.pinimg.com/736x/ee/3e/88/ee3e88df2b236e848a1beef8fe7b3703.jpg" width="180" /> 
 
 ```bash
 Hi there, I am Heloisa
