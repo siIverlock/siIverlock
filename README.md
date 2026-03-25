@@ -1,6 +1,6 @@
 ## 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Vkam1semhoZ3E4c2pneWphYTBqZmppNjhhYzcxYmFyMmQxN2I1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="270" heigth="270px" align="left" style="margin-right: 50px" /> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Vkam1semhoZ3E4c2pneWphYTBqZmppNjhhYzcxYmFyMmQxN2I1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="250" align="left" style="margin-right: 50px" /> 
 
 ```bash
 Hi there, I am Heloisa
