@@ -47,11 +47,12 @@ Feel free to reach out for collaborations.
   <table align="center">
     <tr>
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/python.png"/><br>Python</td>
-      <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png"/><br>Java</td>
+     
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png"/><br>C</td>
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/c-plus-plus-logo.png"/><br>C++</td>
       <td align="center"><img width="40" height="40"" src="https://img.icons8.com/ios/50/html-5--v2.png"/><br>HTML5</td>
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios/50/css3.png"/><br>CSS3</td>
+      <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/javascript.png"/><br>JavaScript</td>
     </tr>
   </table>
 
@@ -60,7 +61,7 @@ Feel free to reach out for collaborations.
   <h3><samp>Upcoming</samp></h3>
   <table align="center">
     <tr>
-      <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/javascript.png"/><br>JavaScript</td>
+      <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png"/><br>Java</td>
       <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/typescript.png"/><br>TypeScript</td>
       <td align="center"><img width="40" src="https://github.com/user-attachments/assets/ae4ee08e-02bf-42b5-ae95-fe53ab55d86c"/><br>React</td>
       <td align="center"><img width="40" src="https://img.icons8.com/material-rounded/24/tailwind_css.png"/><br>Tailwind</td>
