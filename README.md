@@ -36,6 +36,7 @@ Feel free to reach out for collaborations.
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios-glyphs/30/adobe-photoshop.png"/><br><samp>Photoshop</samp></td>
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/canva.png"/><br><samp>Canva</samp></td>
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/trello.png"/><br><samp>Trello</samp></td>
+      <td align="center"><img width="40" height="40" src="https://img.icons8.com/external-basicons-line-edtgraphics/50/external-Kanban-project-management-basicons-line-edtgraphics.png"/><br><samp>Kanban</samp></td>
     </tr>
   </table>
 
@@ -71,6 +72,12 @@ Feel free to reach out for collaborations.
       <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/docker.png"/><br>Docker</td>
       <td align="center"><img width="40" src="https://img.icons8.com/windows/32/amazon-web-services.png"/><br>AWS</td>
       <td align="center"><img width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-bold-tal-revivo.png"/><br>MongoDB</td>
+      <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/figma--v1.png"/><br>Figma</td>
+      <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/vercel.png"/><br>Vercel</td>
+      <td align="center"><img width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-bold-tal-revivo.png"/><br>Jest</td>
+      
+      
+      
     </tr>
   </table>
 
