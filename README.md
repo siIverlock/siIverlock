@@ -47,7 +47,6 @@ Feel free to reach out for collaborations.
   <table align="center">
     <tr>
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/python.png"/><br>Python</td>
-     
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png"/><br>C</td>
       <td align="center"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/c-plus-plus-logo.png"/><br>C++</td>
       <td align="center"><img width="40" height="40"" src="https://img.icons8.com/ios/50/html-5--v2.png"/><br>HTML5</td>
@@ -75,9 +74,7 @@ Feel free to reach out for collaborations.
       <td align="center"><img width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-bold-tal-revivo.png"/><br>MongoDB</td>
       <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/figma--v1.png"/><br>Figma</td>
       <td align="center"><img width="40" src="https://img.icons8.com/ios-filled/50/vercel.png"/><br>Vercel</td>
-      <td align="center"><img width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-bold-tal-revivo.png"/><br>Jest</td>
-      
-           
+      <td align="center"><img width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-bold-tal-revivo.png"/><br>Jest</td> 
     </tr>
   </table>
 
